@@ -1,5 +1,23 @@
-# Power-BI-Data-visualization-
-“A Power BI project demonstrating data modeling, visualization, and business intelligence techniques to analyze sales performance and generate actionable insights.”
-"I have creat a dashboard of an indian sales man data."
-"The data are from excel cvs from".
-"For watching the dashboard you need to downlode or install power bi software".
+# 📊 Power BI Sales Dashboard
+
+## Overview
+An interactive sales analysis dashboard built using Power BI, 
+based on a real-world Indian salesman dataset.
+
+## 📁 Files in this Repo
+- `Orders.csv` — Raw sales orders data
+- `Details.csv` — Product and category details
+- `Madhavan Sales Analyzing Report.pbix` — Power BI report file
+- `Madhavan Sales Analyzing DashBoard.png` — Dashboard screenshot
+
+## 🛠️ Tools Used
+- Microsoft Power BI
+- Excel / CSV
+
+## 📌 Key Insights
+- [Write 1-2 things you found from the data, e.g. "Q3 had the highest sales"]
+- [e.g. "Electronics was the top-performing category"]
+
+## 🚀 How to View
+Download and install [Power BI Desktop](https://powerbi.microsoft.com/) 
+(free), then open the .pbix file.
